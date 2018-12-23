@@ -1,2 +1,2 @@
-# special-bassoon
+# git-specialunit-training
 git training
